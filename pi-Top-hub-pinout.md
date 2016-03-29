@@ -57,7 +57,7 @@ bottom
 |32     |GPIO26 |
 |33     |GPIO20 |
 |34     |GPIO21 |
-|-------|-------|
+
 
 <h3>Pinout + Function laid out</h3>
 
