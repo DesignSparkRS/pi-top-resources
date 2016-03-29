@@ -11,6 +11,7 @@ This mapping simply for easier access / reference.
 Viewing end-on, board oriented as mounted in enclosure
 
 (top)
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 |34|32|30|28|26|24|22|20|18|16|14|12|10|08|06|04|02|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
