@@ -78,7 +78,7 @@ View of header end-on, board as mounted in Pi-Top enclosure.
   bottom
 
 
-| GPIO21 | GPIO26 |
-| ----- | ----- |
-| 34 | 32 |
+| GPIO21 | GPIO26 | GPIO19 |  GPIO12 | GPIO5 | ID_SD | GPIO8 | GPIO25 | GPIO10 | GPIO23 | GPIO27 | GPIO17 | GPIO14 | GPIO3 | SPDIF/HDMI audio | 3.3V | 5V |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 34 | 32 | 30 | 28 | 26 | 24 | 22 | 20 | 18 | 16 | 14 | 12 | 10 | 08 | 06 | 04 | 02 |
 | GPIO20 | GPIO16 |
